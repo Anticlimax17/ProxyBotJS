@@ -1,0 +1,24 @@
+{
+  "name": "proxybotjs",
+  "version": "1.0.0",
+  "description": "A Discord bot intended to proxy messages for roleplay games.",
+  "homepage": "https://github.com/Anticlimax17/ProxyBotJS#readme",
+  "bugs": {
+    "url": "https://github.com/Anticlimax17/ProxyBotJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anticlimax17/ProxyBotJS.git"
+  },
+  "license": "ISC",
+  "author": "anticlimax.",
+  "type":"commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "mysql": "^2.18.1"
+  }
+}
